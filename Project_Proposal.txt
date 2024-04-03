@@ -1,3 +1,15 @@
-1.
-CHUJ
-Git?
+Project Proposal:
+Each team will propose a software project to develop during the duration of the course. The proposal
+should include:
+1. Project Title: A descriptive title for your software project.
+2. Project Description: A brief overview of the purpose and functionality of your software.
+3. Technologies: The programming languages, frameworks, and tools you plan to use.
+4. Features: A list of features your software will include. At least one feature must demonstrate
+each of the following OOP concepts: inheritance, polymorphism, encapsulation, and
+abstraction.
+5. Team Members: Names and roles of each team member (e.g., leader, GUI developer, back end
+developer, tester, documentation, etc.).
+6. Schedule: Time delivery proposed for each feature. Most include at least one responsible per
+task, method and what will be its measurable output.
+7. Workflow: should describe graphically the process of planning, building, testing, and
+deploying a software application.
