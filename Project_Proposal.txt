@@ -1,8 +1,5 @@
-Project Proposal:
-Each team will propose a software project to develop during the duration of the course. The proposal
-should include:
-1. Project Title: A descriptive title for your software project.
-2. Project Description: A brief overview of the purpose and functionality of your software.
+1. Project Title: BioSeq Analyzer
+2. Project Description: 
 3. Technologies: The programming languages, frameworks, and tools you plan to use.
 4. Features: A list of features your software will include. At least one feature must demonstrate
 each of the following OOP concepts: inheritance, polymorphism, encapsulation, and
