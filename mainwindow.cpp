@@ -21,7 +21,7 @@ MainWindow::MainWindow(QWidget *parent)
     layout->addWidget(infoLabel);
 
     // Przycisk do wyboru pliku
-    fileButton = new QPushButton("Wybierz plik", this);
+    fileButton = new QPushButton("Wybierz KURWA PLIK", this);
     layout->addWidget(fileButton);
 
     // Przycisk do uruchomienia analizy
